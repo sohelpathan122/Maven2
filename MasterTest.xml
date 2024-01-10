@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name=" MasterSuite">
+	
+  <suite-files>
+	  <suite-file path="C:\Users\Admin\Downloads\eclipse-java-2023-09-R-win32-x86_64\Maven_code\Second_Script.xml"></suite-file>
+	  <suite-file path="C:\Users\Admin\Downloads\eclipse-java-2023-09-R-win32-x86_64\Maven_code\Third_Script.xml"></suite-file>
+  </suite-files>
+	</suite> <!-- Suite -->
